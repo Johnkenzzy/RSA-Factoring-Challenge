@@ -22,8 +22,8 @@ The program takes one argument, the file containing the numbers to be factorized
 
 ```bash
 
-./factors <file>
+**./factors <file>**
 
 ```
 
-* <file>: A file containing natural numbers (one per line) to factorize.
+* **<file>**: A file containing natural numbers (one per line) to factorize.
